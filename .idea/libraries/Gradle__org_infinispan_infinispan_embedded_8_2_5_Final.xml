@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.infinispan:infinispan-embedded:8.2.5.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-embedded/8.2.5.Final/1a91ca727d6795b5f76a4fc15c97653a6cd7ac62/infinispan-embedded-8.2.5.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-embedded/8.2.5.Final/41b17714c90209906eb967bca4d20bac41c6b089/infinispan-embedded-8.2.5.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.infinispan:infinispan-embedded-query:8.2.5.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-embedded-query/8.2.5.Final/6038b45e2a808ad1b24e407c01ba4127f33d5c1/infinispan-embedded-query-8.2.5.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-embedded-query/8.2.5.Final/b07e101ce529fb18aee4127240f19c1efd9441c5/infinispan-embedded-query-8.2.5.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

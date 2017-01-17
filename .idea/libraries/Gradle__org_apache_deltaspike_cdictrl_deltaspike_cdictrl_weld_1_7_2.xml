@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.deltaspike.cdictrl:deltaspike-cdictrl-weld:1.7.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.deltaspike.cdictrl/deltaspike-cdictrl-weld/1.7.2/216ad06d95deecf7b5072c50c021dab10fb136d7/deltaspike-cdictrl-weld-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.deltaspike.cdictrl/deltaspike-cdictrl-weld/1.7.2/66ead0c137e89e2275b085a3281840a766389150/deltaspike-cdictrl-weld-1.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

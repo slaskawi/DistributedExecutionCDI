@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.deltaspike.cdictrl:deltaspike-cdictrl-api:1.7.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.deltaspike.cdictrl/deltaspike-cdictrl-api/1.7.2/227bf5efe070d9e6e3e1a65202dc0d452a905a9e/deltaspike-cdictrl-api-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.deltaspike.cdictrl/deltaspike-cdictrl-api/1.7.2/a69ef1367a7fa30a489e3886e36aee829e4cab37/deltaspike-cdictrl-api-1.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
